@@ -1,0 +1,20 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "",
+        "PN": "",
+        "MF": ""
+      },
+      "MID": "MID00003",
+      "MD": "",
+      "MT": "",
+      "MQNT": 0,
+      "MQATG": "",
+      "ML": "",
+      "MDS": "",
+      "MR": "",
+      "MaterialImages": []
+    }
+  ]
+}
